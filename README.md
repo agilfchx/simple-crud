@@ -1,4 +1,4 @@
-Simple CRUD using Codeigniter 3 and Sweetalert 2
+Simple CRUD using <b>Codeigniter 3</b> and <b>Sweetalert 2</b>
 
 Learn from Web Programming Unpas
 
